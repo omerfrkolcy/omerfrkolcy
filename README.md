@@ -1,5 +1,5 @@
 ### 🪂 About Me:
-🔭 I’m currently working on vue.js<br>🌱 I’m currently learning react.js<br>👨🏻‍💻 I’m looking to collaborate on "social, innovative, " projects<br>◌ my company profile: [![Github](https://img.shields.io/badge/Github-100000.svg?logo=Github&logoColor=white)](https://github.com/omerfolcay)<br>
+ 🔭 I’m currently developing projects in react.js & vue.js<br>👨🏻‍💻 I’m looking to collaborate on "social, innovative, " projects<br>◌ my company profile: [![Github](https://img.shields.io/badge/Github-100000.svg?logo=Github&logoColor=white)](https://github.com/omerfolcay)<br>
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omerf.olcay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfrkolcy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@omerfrkolcy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omerfrkolcy) 
