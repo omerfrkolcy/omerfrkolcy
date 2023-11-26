@@ -1,10 +1,10 @@
-### 🪂 About Me:
+#### 🪂 About Me:
  🔭 I’m currently developing projects in react.js & vue.js<br>👨🏻‍💻 I’m looking to collaborate on social, innovative, challenging projects<br>◌ my company profile: [![Github](https://img.shields.io/badge/Github-100000.svg?logo=Github&logoColor=white)](https://github.com/omerfolcay)<br>
 
-#### 🌐 Socials:
+##### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omerf.olcay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfrkolcy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@omerfrkolcy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omerfrkolcy) 
 
-#### 💻 Tech Stack:
+##### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,5 +32,9 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![JIRA](https://img.shields.io/badge/jira-%238DD6F9.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+##### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfrkolcy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=omerfrkolcy&icon=0&color=0)](https://visitcount.itsvg.in)
